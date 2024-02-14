@@ -14,7 +14,7 @@
 /**
 */
 class SimpleEQAudioProcessor  : public juce::AudioProcessor
-{
+{   
 public:
     //==============================================================================
     SimpleEQAudioProcessor();
