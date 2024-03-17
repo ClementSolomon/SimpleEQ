@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Builds\\VisualStudio2022"
+    "\\Source"
   ],
+  "SelectedNode": "\\Source\\PluginProcessor.h",
   "PreviewInSolutionExplorer": false
 }
